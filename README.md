@@ -1,0 +1,2 @@
+# LanyBT
+Szoftvermenedzsment feladat
